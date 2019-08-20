@@ -1,0 +1,10 @@
+{
+  "name": "hash-tag-counter",
+  "version": "1.0.0",
+  "dependencies": {
+    "@slappforge/slappforge-sdk": "0.0.3"
+  },
+  "devDependencies": {
+    "aws-sdk": "2.176.0"
+  }
+}
